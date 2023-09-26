@@ -1,8 +1,8 @@
-# vCard - Personal portfolio
+# portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/spyborg11/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/spyborg11/portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gobinda2222?style=social)](https://twitter.com/gobinda2222)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)]
 
@@ -26,13 +26,13 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/spyborg11/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/spyborg11/portfolio.git
 ```
 
 ## Contact
